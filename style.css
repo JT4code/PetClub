@@ -222,7 +222,7 @@ color:#3fa2e9
   display: grid;
   gap: 50px 100px;
   grid-template-columns: auto auto auto;
-  padding: 0px;
+  padding: 10px;
 }
 
 .grid-item {
